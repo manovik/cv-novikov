@@ -1,0 +1,50 @@
+{
+  "edu": [
+    {
+      "name": "Belarussian University of Law - (2010 - 2015)",
+      "descr": "Accountance, analisys and audition - Bachelor economist.",
+      "link": ""
+    },
+    {
+      "name": "IT Academy",
+      "descr": "Basics of Web Technologies",
+      "link": ""
+    },
+    {
+      "name": "From 0 to 1",
+      "descr": "by Vadim Prokopchuk, specialty \"Markup Engineer\"",
+      "link": "https://www.linkedin.com/in/vadim-prokopchuk-a4725616a/"
+    },
+    {
+      "name": "JavaScript",
+      "descr": "by Ivan Petrichenko",
+      "link": "https://www.linkedin.com/in/ivan-petrychenko/"
+    },
+    {
+      "name": "Rolling Scopes School",
+      "descr": "The community working by the principle of \"Pay it forward\"."
+    }
+  ],
+  "skills": 
+  ["JavaScript", "HTML", "CSS", "Git", "React", "Bootstrap",  "Flex/Grid",  "OOP",  "JSON", "API",  "REST API", "jQuery", "React", "Gulp", "Webpack", "sass/scss/less", "post-processors", "npm", "Open Server", "MAMP", "Adobe Photoshop", "Figma", "Avocode"],
+  "languages": [
+    "Russian - native",
+    "English (B1-B2)"
+  ],
+  "add": "I watch many native speakers from USA, Canada and England on YouTube. Most of them are musicians, because I like to watch music producers at work.",
+  "interests": [
+    "Billiards",
+    "Listening to music and audiobooks",
+    "Riding a bike and roller skates",
+    "Basketball"
+  ],
+  "image": "https://raw.githubusercontent.com/manovik/rsschool-cv/gh-pages/images/cv_img.png",
+  "imagealt": "Maxim Novikov on photo",
+  "contacts": {
+    "tel": "+375296200357",
+    "email":"maxnovbel@mail.ru",
+    "socials": [
+      ["LinkedIn", "www.linkedin.com/in/manovik"]
+    ]
+  }
+}
