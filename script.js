@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
       contacts.classList.add("aside__contacts");
       data.contacts.socials.forEach(social => {
         contacts.insertAdjacentHTML('beforeend', `
-        <a class="aside__link" href="${social[1]}">
+        <a class="aside__link" target="_blank" href="${social[1]}">
           ${social[0]}
         </a>
         `)
